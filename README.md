@@ -4,8 +4,8 @@ I am a sorcerer 🧙‍♂️ from Russia making magic
 <br/>
  <img align="left" alt="" width="24px" src="https://image.flaticon.com/icons/svg/867/867891.svg"/> to communicate between internal and external systems
  <br/><img align="left" alt="" width="24px" src="https://image.flaticon.com/icons/svg/867/867887.svg"/> conjuring services and APIs
- <br/><img align="left" alt="" width="24px" src="https://image.flaticon.com/icons/svg/867/867892.svg"/> brewing view collections of data reports 
- <br/><img align="left" alt="" width="24px" src="https://image.flaticon.com/icons/svg/867/867907.svg"/> making my server minions to work with them them
+ <br/><img align="left" alt="" width="24px" src="https://image.flaticon.com/icons/svg/867/867892.svg"/> brewing view collections and models for data reports 
+ <br/><img align="left" alt="" width="24px" src="https://image.flaticon.com/icons/svg/867/867907.svg"/> making my server minions to work
 <br/>
 
 
