@@ -1,5 +1,7 @@
 Russian data analyze sorcerer.
 
+> Talent is an art of how well you can hide your inspiration.
+
 * Summoning workers for scalable parallel factories
 * Building connectivity with empathy.
 * Creating tranquility in big data lakes.
